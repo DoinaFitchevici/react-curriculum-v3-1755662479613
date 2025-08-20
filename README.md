@@ -13,7 +13,7 @@ This course provides comprehensive learning materials for React Curriculum V3.
 ## Course Structure
 
 ### Lesson 0: Class Information
-### Lesson 1: # Discussion Topics
+### Lesson 1: # Discussion Topics TEST
 ### Lesson 2: # Discussion Topics
 ### Lesson 3: # Discussion Topics
 ### Lesson 4: # Discussion Topics
@@ -52,4 +52,4 @@ Course contributors will be listed here.
 ---
 
 *Created by: [Doina Fitchevici](https://github.com/DoinaFitchevici)*
-*Last updated: 8/19/2025*
+*Last updated: 8/20/2025*
