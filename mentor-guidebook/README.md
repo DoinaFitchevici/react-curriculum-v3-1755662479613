@@ -16,16 +16,6 @@
 
 ## Lesson-Specific Guidance
 
-### Lesson 0: Class Information
-
-**Key Topics:** Topics will be covered as the lesson progresses.
-
-**Assignment:** Assignment for Lesson 0
-
-**Common Challenges:** [To be filled by mentors based on experience]
-
-**Tips for Mentors:** [To be filled by mentors based on experience]
-
 ### Lesson 1: # Discussion Topics
 
 **Key Topics:** Topics will be covered as the lesson progresses.
@@ -171,6 +161,16 @@
 **Key Topics:** Topics will be covered as the lesson progresses.
 
 **Assignment:** Assignment for Lesson 15
+
+**Common Challenges:** [To be filled by mentors based on experience]
+
+**Tips for Mentors:** [To be filled by mentors based on experience]
+
+### Lesson 16: Class Information
+
+**Key Topics:** Topics will be covered as the lesson progresses.
+
+**Assignment:** Assignment for Lesson 0
 
 **Common Challenges:** [To be filled by mentors based on experience]
 
